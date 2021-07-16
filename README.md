@@ -1,11 +1,4 @@
-![alt text](http://branding.bornlogic.com.s3-website-sa-east-1.amazonaws.com/static/files-download/logo/logo-roxo.svg 'Bornlogic')
-
-
-# Interview FRONT-END code challenge
-
-**bornlogic** is a technology startup focused on building digital marketing products. We build a platform to orchestrate thousands of teams creating content everyday. Also, our technology stack handles millions of transactions per day!
-
-We work with people that are passionated about technology, forming a great team of engineers and valuable customers.
+# FRONT-END code challenge
 
 ## Who we want on our Team
 
@@ -18,16 +11,6 @@ We welcome highly skilled people who want to build amazing products and will be 
 This challenge is the beginning of your job application at bornlogic. It is intended to all candidates, regardless of experience 
 
 After you are done, we will review your code, give you feedback and proceed to the next steps of your job application.
-
-
-## tips
-It’s natural to feel stressed during a test, so don’t panic. We wrote down some good old tips that may calm you down.
-
-- [ ] Relax yourself mentally and physically
-- [ ] Consider alternative solutions
-- [ ] If you are stuck, start with the brute force solution
-- [ ] Plan out the full solution before you code
-- [ ] Keep the big picture in mind
 
 # How can I apply for this opportunity?
 
@@ -57,7 +40,7 @@ You can also use this lib <a href="https://create-react-app.dev/docs/getting-sta
 
 ## Step One 
  
-Use a wrapper for rest connection to the API (https://swapi.co/documentation). You can use an existed one or create your own.
+Use a wrapper for rest connection to the API (https://swapi.dev/documentation). You can use an existed one or create your own.
 You must connect and get data from PEOPLE, PLANETS and SPECIES 
  
  ## Step Two
@@ -94,3 +77,5 @@ It would be great to see these libraries being used in your code, but we would l
 - Responsivity
 - How far can you go through the challenge
 - Bug count
+- Testing
+
